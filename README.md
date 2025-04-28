@@ -1,6 +1,6 @@
 # ElevateLabs_Task 3
 
-## **Taks 2**: Linear Regression
+## **Taks 3**: Linear Regression
 
 Linear Regression is a  machine learning algorithm used to model the relationship between a dependent variable (target) and one or more independent variables (features).The goal of linear regression is to find the best-fitting straight line (or hyperplane in multiple dimensions) through the data points that minimizes the difference between actual and predicted values.
 
